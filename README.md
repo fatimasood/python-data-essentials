@@ -1,7 +1,7 @@
 # Python Data Essentials
 
 This project is a simple guide for beginners to learn how to handle and visualize data using Python.  
-It covers the most popular libraries — **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
+It covers the most popular libraries **Pandas**, **NumPy**, **Matplotlib**, and **Seaborn**.
 
 ---
 
@@ -13,7 +13,7 @@ It covers the most popular libraries — **Pandas**, **NumPy**, **Matplotlib**, 
    - Do basic statistics and summaries
 
 2. **NumPy Basics**
-   - Create and use arrays
+   - Create and use arrays and dictionary
    - Generate random data
    - Do simple math and stats operations
 
