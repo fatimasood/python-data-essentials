@@ -208,6 +208,18 @@ plt.pie(marks_df["Marks"], labels=marks_df["Name"], autopct='%1.1f%%', startangl
 plt.title("Pie Chart of Marks")
 plt.show()
 
+"""
+This code demonstrates the basics of data manipulation and visualization using popular Python libraries such as Pandas, NumPy, and Matplotlib.  
+It covers the following key functionalities:
+1. Creating and manipulating data using Pandas DataFrames.
+2. Reading from and writing to CSV files.
+3. Accessing and updating DataFrame elements.
+4. Generating random datasets using NumPy.
+5. Performing basic statistical operations on datasets.
+6. Visualizing data using various types of plots including line plots, bar charts, scatter plots, histograms, box plots, violin plots, and pie charts.
+7. Customizing plots with labels, titles, colors, and styles.
+The code is structured to provide a step-by-step guide for beginners to understand how to work with data in Python and create meaningful visualizations.
+"""
 
 
 
