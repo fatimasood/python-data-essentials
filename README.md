@@ -26,9 +26,16 @@ It covers the most popular libraries **Pandas**, **NumPy**, **Matplotlib**, and 
    - Use themes, color palettes, and advanced plots
 
 ---
+## About the Author
+
+👩🏻‍💻 Fatema Masood
+Software Engineer - Flutter | MS Artificial Intelligence | AI & Robotics Enthusiast
+---
 
 ## Requirements
 Make sure you have Python installed.  
 Then install the required libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
+
+
