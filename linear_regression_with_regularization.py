@@ -34,9 +34,9 @@ def liner_reg(X,Y, alpha = 0.01, epochs = 10):  #create function
         m = m - alpha * dm
         b = b - alpha * db
 
-        print(f"Epoch {epoch+1}: Error={error:.4f}, slope={m:.4f}, intecept={b:.4f}")
+        print(f"Epoch {epoch+1}: , slope={m:.4f}, intecept={b:.4f}")
 
-        return m, b #return slope and intercept
+    return m, b #return slope and intercept
 
-
-
+# Run the function
+m, b = liner_reg(x, y,  alpha = 0.01, epochs = 10)
